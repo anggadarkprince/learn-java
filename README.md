@@ -18,4 +18,4 @@ Once you have completed the course, you will have learned object-oriented Java p
 
 
 ##Credits
-These examples are my collection from many resource including Lynda, Udemy, Udacity, and Persoal Trials 
+These examples are my collection from many resource including Lynda, Udemy, Udacity, and Personal Trials 
