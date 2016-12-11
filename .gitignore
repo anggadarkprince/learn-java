@@ -1,2 +1,6 @@
 **/.idea/*
-*/out/*
+out/
+lib/
+*.jar
+*.iml
+
