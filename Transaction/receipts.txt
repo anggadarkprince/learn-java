@@ -1,0 +1,14 @@
+-------------------------
+Name: Ari
+Rent Car: TOYOTA AVANZA
+For: 4 Days
+Total : 800000.0
+-------------------------
+
+-------------------------
+Name: Ari
+Rent Car: TOYOTA AVANZA
+For: 8 Days
+Total : 1440000.0
+-------------------------
+
