@@ -1,0 +1,18 @@
+.root{
+    -fx-background-color: gray;
+}
+
+#buttonRandom{
+    -fx-font-size: 20px;
+    -fx-text-alignment: center;
+    -fx-background-color: rgba(255, 255, 255, .80);
+    -fx-text-fill: aqua;
+    -fx-padding: 6 6 6 6;
+    -fx-border-radius: 8;
+    -fx-font-weight: bold;
+}
+
+#buttonRandom:hover{
+    -fx-background-color: aqua;
+    -fx-text-fill: #ffffff;
+}
